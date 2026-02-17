@@ -8,7 +8,7 @@
 
 **记录海大学子的升学、出国、就业故事**
 
-[🌐 在线访问](https://ouc-feiyue.github.io/) • [📝 投稿指南](./CONTRIBUTING.md) • [💬 关于我们](./about.md)
+[🌐 在线访问](https://winterccc.github.io/feyue-OUC/) 
 
 </div>
 
