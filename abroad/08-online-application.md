@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 网申
-permalink: /abroad/online-application
+permalink: /feiyue-OUC/abroad/online-application
 ---
 
 # 网申 (Online Application)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 背景经历
-permalink: /abroad/background
+permalink: /feiyue-OUC/abroad/background
 ---
 
 # 背景经历

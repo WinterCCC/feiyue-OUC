@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 套磁
-permalink: /abroad/reaching-out
+permalink: /feiyue-OUC/abroad/reaching-out
 ---
 
 # 套磁

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 申请材料清单
-permalink: /abroad/materials
+permalink: /feiyue-OUC/abroad/materials
 ---
 
 # 申请材料清单

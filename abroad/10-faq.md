@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 常见问题
-permalink: /abroad/faq
+permalink: /feiyue-OUC/abroad/faq
 ---
 
 # 常见问题

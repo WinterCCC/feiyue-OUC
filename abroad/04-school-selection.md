@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 选校定位
-permalink: /abroad/school-selection
+permalink: /feiyue-OUC/abroad/school-selection
 ---
 
 # 选校定位

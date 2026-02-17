@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 资源推荐
-permalink: /abroad/resources
+permalink: /feiyue-OUC/abroad/resources
 ---
 
 # 资源推荐

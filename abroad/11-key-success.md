@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 关键成功要素
-permalink: /abroad/key-success
+permalink: /feiyue-OUC/abroad/key-success
 ---
 
 # 关键成功要素

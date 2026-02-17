@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 申请文书
-permalink: /abroad/application-essay
+permalink: /feiyue-OUC/abroad/application-essay
 ---
 
 # 申请文书

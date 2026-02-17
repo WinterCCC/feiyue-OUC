@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 推荐信
-permalink: /abroad/recommendation-letter
+permalink: /feiyue-OUC/abroad/recommendation-letter
 ---
 
 # 推荐信

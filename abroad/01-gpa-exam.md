@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GPA 与标化考试
-permalink: /abroad/gpa-exam
+permalink: /feiyue-OUC/abroad/gpa-exam
 ---
 
 # GPA 与标化考试

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 出国留学完整指南
-permalink: /abroad/
+permalink: /feiyue-OUC/abroad/
 ---
 
 # 中国海洋大学出国留学完整指南

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 申请时间规划
-permalink: /abroad/timeline
+permalink: /feiyue-OUC/abroad/timeline
 ---
 
 # 申请时间规划
